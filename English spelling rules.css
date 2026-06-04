@@ -1,0 +1,130 @@
+/* --- GRAMMAR & SPELLING HUB STYLES --- */
+
+:root {
+    /* --- THEME COLORS (PURPLE) --- */
+    --primary-purple: #6366f1;
+    --header-purple-dark: #4338ca;
+    --accent-purple-light: #f5f3ff;
+    
+    /* --- GLOBAL LAYOUT COLORS --- */
+    --bg-page: #f8fafc;
+    --bg-card: #ffffff;
+    --text-main: #1e293b;
+    --border-gray: #e2e8f0;
+}
+
+/* --- GLOBAL BODY & CONTAINER SETTINGS --- */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background-color: var(--bg-page);
+    color: var(--text-main);
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* --- PURPLE HEADER BANNER --- */
+header.theme-purple {
+    text-align: center;
+    padding: 40px 0;
+    background: linear-gradient(135deg, var(--header-purple-dark), var(--primary-purple));
+    color: white;
+    border-radius: 16px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+h1 { 
+    margin: 0; 
+    font-size: 2.5rem; 
+}
+
+p.subtitle { 
+    margin: 10px 0 0 0; 
+    opacity: 0.9; 
+    font-size: 1.1rem; 
+}
+
+/* --- CARDS & CONTENT --- */
+.card {
+    background: var(--bg-card);
+    padding: 30px;
+    border-radius: 16px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--border-gray);
+}
+
+.theme-purple-page h2 { 
+    color: var(--primary-purple); 
+    border-bottom: 2px solid var(--accent-purple-light);
+    margin-top: 0;
+    padding-bottom: 10px;
+}
+
+.theme-purple-page h3 { 
+    color: var(--header-purple-dark); 
+    margin-top: 20px; 
+    font-size: 1.15rem;
+}
+
+/* --- TABLES --- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid var(--border-gray);
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f9fafb;
+    color: #334155;
+    font-weight: 600;
+}
+
+/* --- EXAMPLES & BLOCKQUOTES --- */
+.example-box {
+    background-color: #f1f5f9;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+    border-left: 4px solid var(--primary-purple);
+}
+
+blockquote {
+    background-color: var(--accent-purple-light);
+    border-left: 4px solid var(--primary-purple);
+    margin: 20px 0;
+    padding: 15px;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--header-purple-dark);
+    border-radius: 0 8px 8px 0;
+}
+
+/* --- LISTS --- */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* --- FOOTER --- */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #64748b;
+    font-size: 0.9rem;
+}
