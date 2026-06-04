@@ -1,6 +1,4 @@
-# English-spelling-rules
-Feel free to check my project! Plus if you want to learn anything about English spelling rules, you can check it!
-# The Ultimate English Spelling Guide 📖
+#  English Spelling Guide 📖
 
 Welcome to the spelling master reference page! This guide breaks down tricky English spelling patterns, suffixes, and rules into easy-to-remember sections.
 
