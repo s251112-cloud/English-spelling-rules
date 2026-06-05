@@ -38,18 +38,36 @@ If the suffix begins with a consonant (like `-ful`, `-less`, or `-ment`), leave 
 *   **Excite** + **ment** $\rightarrow$ **Excitement**
     *   *Example:* The puppies barked with pure **excitement** when she came home.
 
+### Rule C: Retaining the "E"
+In British English, many of the words keeps the "e" to preserve the root word, here are some exceptions.
+
+*   **Size** + **able** $\rightarrow$ **Sizeable** (also spelt sizable in American English)
+    *   *Example:* They received a **sizeable** inheritance from their grandmother.
+*   **Acknowledge** + **ment** $\rightarrow$ **Acknowledgement** (also spelt acknowledgment in American English)
+    *   *Example:* His apology was an **acknowledgement** of his guilt.
+
 ---
 
 ## 🛑 3. The 1-1-1 Doubling Rule
 
 When you want to add a vowel suffix (like `-ing` or `-ed`) to a short word, you sometimes have to double the final consonant. Use this rule when the word fits three conditions: it has **1 syllable**, **1 short vowel**, and ends in **1 consonant**.
 
+### Rule A: For one-syllable words unless they end in w, x and y.
 *   **Run** + **ing** $\rightarrow$ **Running**
     *   *Example:* Look at how fast that puppy is **running** across the grass!
 *   **Stop** + **ed** $\rightarrow$ **Stopped**
     *   *Example:* The girl **stopped** cycling to let a duck cross the road safely.
 *   **Shop** + **er** $\rightarrow$ **Shopper**
     *   *Example:* The smart **shopper** bought a beautiful collar for her cat.
+ 
+### Rule B: For multi-syllable words 
+If the word has more than one syllable whose stress is in the last syllable, double the last letter unless they end in w, x and y.
+*   **Forget** + **ing** $\rightarrow$ **Forgetting** (pronounced for-GET, ie second syllable stress)
+    *   *Example:* She was so excited about the trip that she started **forgetting** her daily chores.
+*   **Listen** + **ing** $\rightarrow$ **Listen** (pronounced LIS-ten, ie first syllable stress)
+    *   *Example:* Marco likes **listening** to classical piano music published by ABRSM.
+*   **Cancel** + **ed** $\rightarrow$ **Cancel** (pronounced CAN-cel, ie first syllable stress, but this is an exception, whenever the word ends with l no matter where the stress is, it is always doubled in British English, while left single in American English.)
+    *   *Example:* The school picnic has been **cancelled** (or **canceled** in AmE) due to the terrible weather.
 
 ---
 
