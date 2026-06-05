@@ -68,4 +68,5 @@ Words that entered the English language later, or words with specific phonetic h
 ---
 
 ### 🚀 Contributors
-*   **Celine0921** (@s251112-cloud)
+*   **Celine0921** (the main creator of this project)
+*   **marcoT0425** (the collab of the project)
