@@ -91,4 +91,5 @@ This is a great rule of thumb for words containing the **ie** or **ei** letter c
 ---
 
 ### 🚀 Contributors
-*   **Celine0921** (@s251112-cloud)
+*   **Celine0921** (the main creator of this project)
+*   **MarcoT0425** (the collab of the project)
