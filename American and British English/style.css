@@ -1,0 +1,133 @@
+/* --- REGIONAL GRAMMAR DIALECT STYLES --- */
+
+:root {
+    /* --- THEME COLORS (DEEP PURPLE VARIATION) --- */
+    --primary-purple: #7c3aed;
+    --header-purple-dark: #5b21b6;
+    --accent-purple-light: #f3e8ff;
+    
+    /* --- GLOBAL LAYOUT COLORS --- */
+    --bg-page: #f8fafc;
+    --bg-card: #ffffff;
+    --text-main: #1e293b;
+    --border-gray: #e2e8f0;
+}
+
+/* --- GLOBAL BODY & CONTAINER SETTINGS --- */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background-color: var(--bg-page);
+    color: var(--text-main);
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* --- PURPLE HEADER BANNER --- */
+header.theme-purple {
+    text-align: center;
+    padding: 40px 15px;
+    background: linear-gradient(135deg, var(--header-purple-dark), var(--primary-purple));
+    color: white;
+    border-radius: 16px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+h1 { 
+    margin: 0; 
+    font-size: 2.5rem; 
+}
+
+p.subtitle { 
+    margin: 10px 0 0 0; 
+    opacity: 0.9; 
+    font-size: 1.1rem; 
+}
+
+/* --- CARDS & CONTENT DISPLAY --- */
+.card {
+    background: var(--bg-card);
+    padding: 30px;
+    border-radius: 16px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--border-gray);
+}
+
+.theme-purple-page h2 { 
+    color: var(--primary-purple); 
+    border-bottom: 2px solid var(--accent-purple-light);
+    margin-top: 0;
+    padding-bottom: 10px;
+    font-size: 1.6rem;
+}
+
+.theme-purple-page h3 { 
+    color: var(--header-purple-dark); 
+    margin-top: 25px; 
+    font-size: 1.2rem;
+    background-color: var(--accent-purple-light);
+    padding: 6px 12px;
+    border-radius: 6px;
+    display: inline-block;
+}
+
+/* --- DATA COMPARISON TABLES --- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
+}
+
+th, td {
+    border: 1px solid var(--border-gray);
+    padding: 12px 16px;
+    text-align: left;
+}
+
+th {
+    background-color: #f8fafc;
+    color: #475569;
+    font-weight: 600;
+}
+
+td {
+    width: 50%;
+}
+
+/* --- EXAMPLES & HIGHLIGHTS --- */
+.example-box {
+    background-color: #f1f5f9;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+    border-left: 4px solid var(--primary-purple);
+    font-size: 0.95rem;
+}
+
+.highlight {
+    color: var(--primary-purple);
+    font-weight: bold;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* --- FOOTER --- */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #64748b;
+    font-size: 0.9rem;
+}
