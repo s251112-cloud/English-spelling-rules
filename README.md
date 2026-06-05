@@ -85,7 +85,7 @@ If there is a consonant before the **y**, change the **y** to an **i** before ad
 *   *Exception:* **Try** + **ing** $\rightarrow$ **Trying** *(Keep the y so we don't get two "i"s together!)*
 
 ### Rule B: Vowel + Y (Keep it!)
-If there is a vowel ($a, e, i, o, u$) right before the **y**, leave the **y** exactly as it is and just add the ending.
+If there is a vowel (a, e, i, o, u) right before the **y**, leave the **y** exactly as it is and just add the ending.
 
 *   **Play** + **ed** $\rightarrow$ **Played**
     *   *Example:* The playful kitten **played** with a ball of yarn all afternoon.
