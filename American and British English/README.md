@@ -124,4 +124,5 @@ Some verbs can be regular or irregular. American English favors the regular `-ed
 ---
 
 ### 🚀 Contributors
-*   **Celine0921** (@s251112-cloud)
+*   **Celine0921** (the main creator of this project)
+*   *marcoT0425** (the collab of the project)
