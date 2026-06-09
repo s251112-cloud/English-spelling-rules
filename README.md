@@ -105,33 +105,3 @@ This is a great rule of thumb for words containing the **ie** or **ei** letter c
     *   *Example:* The girl will **receive** a package containing her new books.
 *   **Sounds like "A" (E before I):** Vein, Beige
     *   *Example:* Her cat has soft, **beige** fur.
- 
-    *   ## 🧩 6. Prefix Hyphenation: The "re-" Distinguishing Rule
-
-Adding the prefix **"re-"** (meaning *to do again*) usually does not require a hyphen. However, a hyphen **must** be used if omitting it creates an entirely different word, causing structural confusion.
-
-### 🔹 Rule 1: Use a Hyphen to Prevent Semantic Confusion
-If a word spelled with "re-" looks identical to an existing, unrelated word, you must insert a hyphen immediately after the prefix. This signals to the reader that you mean "to do an action a second time."
-
-| Meaning: Action Done Again (Use Hyphen) | Meaning: Standard Unrelated Word (No Hyphen) |
-| :--- | :--- |
-| **Re-cover** *(To cover something again)* | **Recover** *(To heal or find something lost)* |
-| **Re-sign** *(To sign a document again)* | **Resign** *(To quit a job)* |
-| **Re-create** *(To create something again)* | **Recreate** *(To take part in leisure activities)* |
-| **Re-press** *(To press a shirt or button again)* | **Repress** *(To conceal or suppress a thought)* |
-
-* **US/UK Semantic Example:** The girl will **re-cover** her puppy’s favorite heating pad with a new purple cloth so it can **recover** from its illness.
-* **US/UK Semantic Example:** The female executive decided to **re-sign** the contract extension rather than **resign** from the project staff.
-
-### 🔹 Rule 2: Clean Prefixes (No Hyphen)
-If the resulting word does not conflict with any other English word (unless it is hard to read or the root word begins with "e"), do not use a hyphen.
-* **Rewrite:** The girl had to **rewrite** her entire HTML style framework.
-* **Redo:** Her clever cat made her **redo** the formatting by walking across the keyboard.
-but
-* **Re-evaluate:** He is **re-evaluating** the results in Wordle.
-
----
-
-### 🚀 Contributors
-*   **Celine0921** (the main creator of this project)
-*   **MarcoT0425** (the collab of the project)
