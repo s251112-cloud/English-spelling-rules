@@ -127,6 +127,8 @@ If a word spelled with "re-" looks identical to an existing, unrelated word, you
 If the resulting word does not conflict with any other English word (unless it is hard to read or the root word begins with "e"), do not use a hyphen.
 * **Rewrite:** The girl had to **rewrite** her entire HTML style framework.
 * **Redo:** Her clever cat made her **redo** the formatting by walking across the keyboard.
+but
+* **Re-evaluate:** He is **re-evaluating** the results in Wordle.
 
 ---
 
